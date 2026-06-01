@@ -1,0 +1,7 @@
+{
+  "project": "Agentic AI",
+  "version": "1.0.0",
+  "description": "Learning materials for Agentic AI course",
+  "openai_api_base": "https://api.openai.com/v1",
+  "openai_api_token": "your_api_key_here"
+}
